@@ -247,7 +247,376 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pnlFormBorder.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tlpMainTable.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblCurrentCity.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCurrentCity.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="lblCurrentCity.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCurrentCity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 32</value>
+  </data>
+  <data name="lblCurrentCity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 19</value>
+  </data>
+  <data name="lblCurrentCity.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblCurrentCity.Text" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentCity.Name" xml:space="preserve">
+    <value>lblCurrentCity</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentCity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentCity.Parent" xml:space="preserve">
+    <value>pnlCurrentWeather</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentCity.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="btnTEST.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnTEST.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 84</value>
+  </data>
+  <data name="btnTEST.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnTEST.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnTEST.Text" xml:space="preserve">
+    <value>TEST ME</value>
+  </data>
+  <data name="&gt;&gt;btnTEST.Name" xml:space="preserve">
+    <value>btnTEST</value>
+  </data>
+  <data name="&gt;&gt;btnTEST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTEST.Parent" xml:space="preserve">
+    <value>pnlCurrentWeather</value>
+  </data>
+  <data name="&gt;&gt;btnTEST.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblCurrentWeather.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCurrentWeather.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="lblCurrentWeather.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCurrentWeather.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 13</value>
+  </data>
+  <data name="lblCurrentWeather.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 19</value>
+  </data>
+  <data name="lblCurrentWeather.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblCurrentWeather.Text" xml:space="preserve">
+    <value>Current Weather</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeather.Name" xml:space="preserve">
+    <value>lblCurrentWeather</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeather.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeather.Parent" xml:space="preserve">
+    <value>pnlCurrentWeather</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeather.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlCurrentWeather.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlCurrentWeather.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="pnlCurrentWeather.Size" type="System.Drawing.Size, System.Drawing">
+    <value>358, 176</value>
+  </data>
+  <data name="pnlCurrentWeather.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentWeather.Name" xml:space="preserve">
+    <value>pnlCurrentWeather</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentWeather.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentWeather.Parent" xml:space="preserve">
+    <value>tlpMainTable</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentWeather.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tlpMainTable.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tlpMainTable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 85</value>
+  </data>
+  <data name="tlpMainTable.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tlpMainTable.Size" type="System.Drawing.Size, System.Drawing">
+    <value>729, 365</value>
+  </data>
+  <data name="tlpMainTable.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tlpMainTable.Name" xml:space="preserve">
+    <value>tlpMainTable</value>
+  </data>
+  <data name="&gt;&gt;tlpMainTable.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tlpMainTable.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tlpMainTable.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tlpMainTable.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="pnlCurrentWeather" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 8.25pt</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>641, 13</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 21</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>ºF</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>pnlTop</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnCelsiusSwitch.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnCelsiusSwitch.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 8.25pt</value>
+  </data>
+  <data name="btnCelsiusSwitch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>670, 13</value>
+  </data>
+  <data name="btnCelsiusSwitch.Size" type="System.Drawing.Size, System.Drawing">
+    <value>29, 21</value>
+  </data>
+  <data name="btnCelsiusSwitch.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnCelsiusSwitch.Text" xml:space="preserve">
+    <value>ºC</value>
+  </data>
+  <data name="&gt;&gt;btnCelsiusSwitch.Name" xml:space="preserve">
+    <value>btnCelsiusSwitch</value>
+  </data>
+  <data name="&gt;&gt;btnCelsiusSwitch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCelsiusSwitch.Parent" xml:space="preserve">
+    <value>pnlTop</value>
+  </data>
+  <data name="&gt;&gt;btnCelsiusSwitch.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cboCities.Location" type="System.Drawing.Point, System.Drawing">
+    <value>73, 13</value>
+  </data>
+  <data name="cboCities.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="cboCities.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;cboCities.Name" xml:space="preserve">
+    <value>cboCities</value>
+  </data>
+  <data name="&gt;&gt;cboCities.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboCities.Parent" xml:space="preserve">
+    <value>pnlCurrentLocation</value>
+  </data>
+  <data name="&gt;&gt;cboCities.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblCurrentWeatherTop.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCurrentWeatherTop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="lblCurrentWeatherTop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCurrentWeatherTop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 15</value>
+  </data>
+  <data name="lblCurrentWeatherTop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 19</value>
+  </data>
+  <data name="lblCurrentWeatherTop.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblCurrentWeatherTop.Text" xml:space="preserve">
+    <value>00º</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeatherTop.Name" xml:space="preserve">
+    <value>lblCurrentWeatherTop</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeatherTop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeatherTop.Parent" xml:space="preserve">
+    <value>pnlCurrentLocation</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentWeatherTop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblCity.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCity.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="lblCity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 15</value>
+  </data>
+  <data name="lblCity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 19</value>
+  </data>
+  <data name="lblCity.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblCity.Text" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="&gt;&gt;lblCity.Name" xml:space="preserve">
+    <value>lblCity</value>
+  </data>
+  <data name="&gt;&gt;lblCity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCity.Parent" xml:space="preserve">
+    <value>pnlCurrentLocation</value>
+  </data>
+  <data name="&gt;&gt;lblCity.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlCurrentLocation.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pnlCurrentLocation.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlCurrentLocation.Size" type="System.Drawing.Size, System.Drawing">
+    <value>361, 52</value>
+  </data>
+  <data name="pnlCurrentLocation.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentLocation.Name" xml:space="preserve">
+    <value>pnlCurrentLocation</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentLocation.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentLocation.Parent" xml:space="preserve">
+    <value>pnlTop</value>
+  </data>
+  <data name="&gt;&gt;pnlCurrentLocation.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlTop.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="pnlTop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 33</value>
+  </data>
+  <data name="pnlTop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>729, 52</value>
+  </data>
+  <data name="pnlTop.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlTop.Name" xml:space="preserve">
+    <value>pnlTop</value>
+  </data>
+  <data name="&gt;&gt;pnlTop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlTop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlTop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlLeftMargin.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pnlLeftMargin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 33</value>
+  </data>
+  <data name="pnlLeftMargin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 417</value>
+  </data>
+  <data name="pnlLeftMargin.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlLeftMargin.Name" xml:space="preserve">
+    <value>pnlLeftMargin</value>
+  </data>
+  <data name="&gt;&gt;pnlLeftMargin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlLeftMargin.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlLeftMargin.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

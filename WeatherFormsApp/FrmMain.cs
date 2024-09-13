@@ -9,6 +9,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WeatherFormsApp
 {
@@ -22,12 +23,15 @@ namespace WeatherFormsApp
         /// </summary>
         private static readonly Utils utils = new Utils();
 
+        private CsvSearcher citiesCsv = new CsvSearcher("cities_20000.csv");
+
         /// <summary>
         /// Instantiates the main form.
         /// </summary>
         public FrmMain()
         {
             InitializeComponent();
+            utils.LoadComboBox(cboCities, "city_name", citiesCsv.getDataTable());
         }
 
         /// <summary>
@@ -65,5 +69,18 @@ namespace WeatherFormsApp
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+        private void btnTEST_Click(object sender, EventArgs e)
+        {
+            //  WeatherDataApi weatherDataApi = new WeatherDataApi();
+
+            // TODO: We are getting weather back from the API.
+            // TODO: My computer is not seeming to work with the lat/lon functions, so I will have to add a way to select a city.
+            //CurrentWeather currentWeather = weatherDataApi.GetCurrentWeather();
+
+            //searcher.Search("Winnipeg");
+            //cityData.LoadComboBox(cboCities, "city_name");
+        }
+
     }
 }
